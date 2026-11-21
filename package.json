@@ -1,17 +1,17 @@
 {
   "name": "iconly",
-  "version": "5.0.0",
+  "version": "5.0.1",
   "description": "Iconly is designed to load and cache SVG icons in the browser, using IndexedDB to store the data. It retrieves the icons from a given SVG file, stores them in IndexedDB, and inserts them into the DOM for easy access and use.",
-  "author": "ux-ui.pro",
+  "author": "Maxim <m@nilmuse.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ux-ui-pro/iconly.git"
+    "url": "git+https://github.com/nilmuse/iconly.git"
   },
   "bugs": {
-    "url": "https://github.com/ux-ui-pro/iconly/issues"
+    "url": "https://github.com/nilmuse/iconly/issues"
   },
-  "homepage": "https://github.com/ux-ui-pro/iconly",
+  "homepage": "https://github.com/nilmuse/iconly",
   "sideEffects": false,
   "type": "module",
   "packageManager": "npm@10.9.3",
